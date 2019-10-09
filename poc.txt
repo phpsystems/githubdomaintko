@@ -1,0 +1,7 @@
+# Github domain pages takeover
+
+As per a bug bounty program:
+
+phpsystems @ hackerone / bugcrowd
+hackerone@php-systems.com
+
